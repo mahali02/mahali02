@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/MahmouAlibrahim)
 
-# Hej 👋, jag är Mahmou Alibrahim  
+# Hej 👋, Mahmoud Alibrahim  
 🎓 Student på Högskolan i Halmstad  
 💻 Civilingenjör i Datateknik  
 
